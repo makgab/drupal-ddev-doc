@@ -1,0 +1,49 @@
+-------------------------------------------------------------
+Drupal module, theme development extensions for VSCode (ddev)
+-------------------------------------------------------------
+
+* Markdown Preview Enhanced - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+
+* DDEV Manager - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=biati.ddev-manager
+
+* Docker - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker
+
+* Drupal Intellisense - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=YahyaAhmad.drupal-intellisense
+
+* DupChecker - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker
+
+* Git History - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory
+
+* GitLens — Git supercharged - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+* JSON formatter - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=ClemensPeters.format-json
+
+* Live Share - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+
+* Path Intellisense - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+
+* Prettier - Code formatter - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+* Tailwind CSS IntelliSense - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+
+* Twig - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=whatwedo.twig
+
+* Twig whatwedo:
+  https://marketplace.visualstudio.com/items?itemName=whatwedo.twig
+
+* Version Lens - Visual Studio Marketplace:
+  https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens
+
