@@ -66,6 +66,7 @@ mkcert -install
 mkdir my-site
 cd my-site
 ddev config --project-type drupal --docroot web
+# ddev config --project-type=drupal --php-version=8.3 --docroot=web
 
 # This will create a new DDEV project configured to host a Drupal application.
 # DDEV will store the generated configuration in a new .ddev subdirectory.
