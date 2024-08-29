@@ -79,7 +79,7 @@ ddev start
 ```
 ddev composer create drupal/recommended-project -y
 
-# composer create-project drupal/recommended-project
+# composer create-project drupal/recommended-project:^10
 ```
 
  - Install Drupal:
